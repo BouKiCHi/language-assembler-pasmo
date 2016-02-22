@@ -1,0 +1,23 @@
+{
+  "name": "language-assembler-pasmo",
+  "version": "0.1.0",
+  "description": "Assembler language like pasmo which is a z80 assembler support in Atom",
+  "homepage": "https://github.com/BouKiCHi/language-assembler-pasmo",
+  "keywords": [
+    "pasmo",
+    "z80",
+    "assembler"
+  ],
+  "activationCommands": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BouKiCHi/language-assembler-pasmo.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+  }
+}
