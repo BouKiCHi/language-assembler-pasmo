@@ -1,6 +1,6 @@
 {
   "name": "language-assembler-pasmo",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Syntax-coloring for Z80 Assembler like pasmo",
   "homepage": "https://github.com/BouKiCHi/language-assembler-pasmo",
   "keywords": [
