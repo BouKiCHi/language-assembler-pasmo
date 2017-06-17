@@ -23,10 +23,16 @@
   {
     'include': '#label'
   }
+  {
+    'include': '#jumps'
+  }
 ]
 'repository':
   'string':
     'patterns': [
+      {
+        'match': 'AF\''
+      }
       {
         'begin': '\''
         'end': '\''
@@ -65,8 +71,10 @@
 
   'label':
      'match': '^[\\s]*\\w+:'
+     'name': 'storage.type.function.asm'
+  'jumps':
+     'match': '\\s(?i:(jp|jr|djnz|ret|call))\\s'
      'name': 'entity.name.function.asm'
-
   'hexpats':
     'patterns':[
       {

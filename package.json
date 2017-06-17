@@ -1,7 +1,7 @@
 {
   "name": "language-assembler-pasmo",
   "version": "0.2.0",
-  "description": "Assembler language like pasmo which is a z80 assembler support in Atom",
+  "description": "Syntax-coloring for Z80 Assembler like pasmo",
   "homepage": "https://github.com/BouKiCHi/language-assembler-pasmo",
   "keywords": [
     "pasmo",
